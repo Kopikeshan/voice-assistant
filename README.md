@@ -60,7 +60,7 @@ voice-assistant/
 ├── voice_assistant.py      # Main app
 ├── requirements.txt        # Dependencies  
 ├── .env.example           # Config template
-├── .env                   # Your API key
+├── .env                   # Your API key (git-ignored, never committed)
 ├── custom_personality.json # Saved personality
 ├── check_setup.py         # Setup checker
 └── README.md              # This file
